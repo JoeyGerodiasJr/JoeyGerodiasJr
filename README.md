@@ -14,7 +14,7 @@ I believe that before data can tell a compelling story, it must first speak the 
 
 ## Certification
 
-- [SQL and Relational Databases 101 2025](https://courses.cognitiveclass.ai/certificates/211b83518dc04e2ebe148ad0f25e8827)
+- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/211b83518dc04e2ebe148ad0f25e8827)
 
 
 ## Skill Sets
