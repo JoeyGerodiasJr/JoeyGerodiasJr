@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there! 👋 I'm Joey Gerodias 
 
-<!--
-**JoeyGerodiasJr/JoeyGerodiasJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Joey Gerodias
+BSCS (Bachelor of Science in Computer Science)
+I believe that before data can tell a compelling story, it must first speak the truth. My role is to be its editor—removing the noise, correcting the errors, and ensuring its narrative is clear and consistent. With a foundation in Computer Science, I architect the processes that transform chaotic data into a coherent and trustworthy source, enabling businesses to write their next chapter with confidence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+
+- Bachelor of Science in Computer Science
+  - New Era University
+  - 2024-Present
+
+## Certification
+
+- 
+
+
+
+
+## Skill Sets
+
+- Programming:
+  - Java
+  - Javascript
+  
+
+- Databases:
+  - IBM DB2 Cloud
+
+- Tools:
+  - Lucidchart
+  - Eclipse
+  - HTML
+  - VSCODE
+    
+
+## Reach me 
+- Email:  Bsgjoeygerodias@gmail.com
+- Linkedin:  [JoeyGerodiasJr](https://www.linkedin.com/in/joey-gerodias-jr-049a36318/?trk=opento_sprofile_pfeditor)
+  
+    
+Let's connect to discuss opportunities in tech and innovation.
+
+
+
