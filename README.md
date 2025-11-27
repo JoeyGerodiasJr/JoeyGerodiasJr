@@ -10,7 +10,7 @@ I believe that before data can tell a compelling story, it must first speak the 
 
 - Bachelor of Science in Computer Science
   - New Era University
-  - 2024-Present
+  - 2025-Present
 
 ## Certification
 
