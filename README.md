@@ -17,7 +17,7 @@ I believe that before data can tell a compelling story, it must first speak the 
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/211b83518dc04e2ebe148ad0f25e8827)
 - [Become An OCI Foundations Associate(2025)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=BE3A75AB57CF1008FCB8CE8DD8A9CDC1EC6A6936E9D9330BEA8D637CA967B321)
 - [Become an Oracle Data Platform Foundations Associate(2025)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A0EE255729BCECEF569AD2DF73D14D9B17AA7F053D9B9DB9C14165DF95ABEA42)
-- [Become An OCI AI Foundations Associate (2025)]()
+- [Become An OCI AI Foundations Associate (2025)](about:blank)
 
 ## Skill Sets
 
